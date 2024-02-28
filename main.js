@@ -11,6 +11,7 @@ tl.to("#fanta",{
     left: "0%"
 }, 'orange')
 tl.to("#orange-cut",{
+    
     top:"160%",
     left: "23%"
 }, 'orange')
